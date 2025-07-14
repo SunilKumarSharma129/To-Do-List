@@ -1,1 +1,12 @@
+# To-Do List
 To-Do List is a simple task management web app that allows users to create, view, and delete tasks based on their priorities. It helps users organize their daily work by letting them focus on what matters most, with an intuitive interface for tracking and managing tasks efficiently.  
+
+## Screenshots
+
+ 
+
+
+## Tech Stack
+
+HTML, CSS, JavaScript
+ 
