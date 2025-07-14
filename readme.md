@@ -10,4 +10,8 @@ To-Do List is a simple task management web app that allows users to create, view
 ## Tech Stack
 
 HTML, CSS, JavaScript
+
+## Authors
+
+- [@SunilKumarSharma129](https://github.com/SunilKumarSharma129)
  
