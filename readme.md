@@ -4,7 +4,7 @@ To-Do List is a simple task management web app that allows users to create, view
 ## Screenshots
 ![image](https://github.com/SunilKumarSharma129/To-Do-List/blob/149f5578615bb4a33f010dd9c07420e632100232/img.jpeg)
 ![image1](https://github.com/SunilKumarSharma129/To-Do-List/blob/149f5578615bb4a33f010dd9c07420e632100232/img_.jpeg)
-![image2](https://github.com/SunilKumarSharma129/To-Do-List/blob/149f5578615bb4a33f010dd9c07420e632100232/img__.jpeg)
+![image2](https://github.com/SunilKumarSharma129/To-Do-List/blob/149f5578615bb4a33f010dd9c07420e632100232/img__.jpeg) 
 
 
 ## Tech Stack
